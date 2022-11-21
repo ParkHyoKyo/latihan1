@@ -7,7 +7,7 @@
 </head>
 <body>
 
-	<form action="proses.php" method="GET">
+	<form action="percabangan.php" method="POST">
 		<input type="text" name="nama_depan">
 		<input type="text" name="nama_belakang">
 		<input type="submit" value="kirim">
