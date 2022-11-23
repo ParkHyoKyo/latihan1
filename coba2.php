@@ -4,7 +4,7 @@
 // include 'coba1.php';
 
 // echo "gongxi";
-$koneksi = mysqli_connect("localhost","root","","latihan");
+$koneksi = mysqli_connect("localhost","root","","secret");
 
 
 

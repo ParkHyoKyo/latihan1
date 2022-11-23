@@ -7,9 +7,11 @@
 </head>
 <body>
 
-	<form action="percabangan.php" method="POST">
+	<form action="coba1.php" method="POST">
 		<input type="text" name="nama_depan">
+		<br>
 		<input type="text" name="nama_belakang">
+		<br>
 		<input type="submit" value="kirim">
 	</form>
 
