@@ -7,10 +7,12 @@
 </head>
 <body>
 
-	<form action="coba1.php" method="POST">
+	<form action="creatdata.php" method="POST">
 		<input type="text" name="nama_depan">
 		<br>
 		<input type="text" name="nama_belakang">
+		<br>
+		<input type="text" name="nama_panggilan">
 		<br>
 		<input type="submit" value="kirim">
 	</form>

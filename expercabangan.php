@@ -8,6 +8,7 @@ $angka = "C";
 // }else{
 // 	echo "Tidak Lulus";
 // }
+
 if($angka == "A"){
 	echo "Sangat Baik";
 }elseif ($angka == "B") {
