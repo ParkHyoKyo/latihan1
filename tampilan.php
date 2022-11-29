@@ -8,9 +8,15 @@
 <body>
 
 	<form action="creatdata.php" method="POST">
+		<p>Nama</p>
+		<br>
 		<input type="text" name="nama_depan">
 		<br>
+		<p>Kelas</p>
+		<br>
 		<input type="text" name="nama_belakang">
+		<br>
+		<p>Nilai</p>
 		<br>
 		<input type="text" name="nama_panggilan">
 		<br>
